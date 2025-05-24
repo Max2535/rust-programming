@@ -1,0 +1,5 @@
+Assignment 1: ฟังก์ชันนับความยาว (แบบยืม)
+Assignment 2: แก้ไขค่าในฟังก์ชัน (mutable borrow)
+Assignment 3: สลับค่าผ่านฟังก์ชัน
+Assignment 4: ใช้ reference แบบปลอดภัย
+Assignment 5: คืนค่า reference จากฟังก์ชัน

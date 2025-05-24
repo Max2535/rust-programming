@@ -1,0 +1,5 @@
+Assignment 1: ตรวจเลขคู่หรือคี่ (Multi-pattern)
+Assignment 2: กรองตัวอักษรสระ
+Assignment 3: ใช้ Multi-pattern กับ Enum
+Assignment 4: ใช้ Match + Guard + Multi-pattern
+Assignment 5: ใช้ Match เป็น expression

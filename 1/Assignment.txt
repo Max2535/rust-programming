@@ -1,0 +1,6 @@
+Assignment 1: สลับค่าระหว่างตัวแปร
+Assignment 2: หาค่ามากสุดจาก array
+Assignment 3: ฟังก์ชันหารเฉลี่ยจาก Vec<i32>
+Assignment 4: ตรวจว่าเป็นเลขคู่หรือคี่
+Assignment 5: เขียนฟังก์ชัน factorial แบบ recursive
+Assignment 6: ประยุกต์ slice

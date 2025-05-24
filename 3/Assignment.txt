@@ -1,0 +1,4 @@
+Assignment 1: คืน string slice ที่ยาวที่สุด
+Assignment 2: Struct with reference field
+Assignment 3: ใช้ 'static คืนค่าคงที่
+Assignment 4: คืน slice ของคำแรก (แบบ lifetime)

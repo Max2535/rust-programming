@@ -1,0 +1,6 @@
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+cargo new new_project
+cd new_project
+
+
+rustc --emit=asm src/main.rs -O # หรือใช้ -C opt-level=3 สำหรับ release build
