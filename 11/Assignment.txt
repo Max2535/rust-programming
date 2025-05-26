@@ -1,0 +1,5 @@
+Assignment 1: กรองเลขคู่ แล้วยกกำลังสอง
+Assignment 2: คูณค่าทั้งหมดเข้าด้วยกัน (fold)
+Assignment 3: สร้าง Vec จาก range แล้วแปลงค่า
+Assignment 4: สลับ index กับค่าด้วย .enumerate()
+Assignment 5 (Advanced): zip สอง Vec แล้วรวมค่า
