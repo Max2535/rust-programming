@@ -1,0 +1,5 @@
+Hello, this is a sample text file.
+You can add any data you want here.
+This file will be read by your Rust program.
+Line 4: More sample data.
+Line 5: End of file.

@@ -1,0 +1,23 @@
+Test 1: Basic input
+Input: Hello, world!
+Expected Output: Hello, world!
+
+Test 2: Empty input
+Input: 
+Expected Output: 
+
+Test 3: Numeric input
+Input: 1234567890
+Expected Output: 1234567890
+
+Test 4: Special characters
+Input: !@#$%^&*()_+-=[]{}|;':",.<>/?
+Expected Output: !@#$%^&*()_+-=[]{}|;':",.<>/?
+
+Test 5: Multiline input
+Input: Line 1
+Line 2
+Line 3
+Expected Output: Line 1
+Line 2
+Line 3

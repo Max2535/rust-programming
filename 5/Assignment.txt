@@ -1,0 +1,5 @@
+Assignment 1: Overload + สำหรับ struct
+Assignment 2: Overload * สำหรับ struct Vector2D
+Assignment 3: Overload += ด้วย AddAssign
+Assignment 4: Overload == กับ PartialEq
+Assignment 5 (Advance): Implement Add<T> ให้รองรับ Point + i32

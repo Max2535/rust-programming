@@ -1,0 +1,5 @@
+Assignment 1: ตรวจหาค่าซ้ำใน Vec
+Assignment 2: สร้าง Set ของคำจากข้อความ split
+Assignment 3: เปรียบเทียบ Set สองชุด
+Assignment 4: สร้าง BTreeSet แล้วแสดงเรียงลำดับ
+Assignment 5 (Advanced): ใช้ Set กับ Struct

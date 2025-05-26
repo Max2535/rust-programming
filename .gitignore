@@ -1,0 +1,19 @@
+# Rust build files
+/target/
+**/*.rs.bk
+
+# IDE and editor files
+/.idea/
+/.vscode/
+*.swp
+*.swo
+
+# Dependency directories
+/Cargo.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
