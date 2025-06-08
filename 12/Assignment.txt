@@ -1,0 +1,4 @@
+Assignment 1: เปลี่ยนค่าภายใน RefCell
+Assignment 2: ใช้ RefCell ใน struct แบบ immutable
+Assignment 3: ใช้ร่วมกับ Rc → แชร์แบบแก้ไขได้
+Assignment 4 (Advanced): panic ตรวจ borrow ผิด

@@ -1,0 +1,5 @@
+Assignment 1: คำนวณยกกำลังสองแบบขนาน
+Assignment 2: รวมค่าจาก 1 ถึง 1 ล้านแบบเร็วสุด
+Assignment 3: กรองค่าที่หาร 3 ลงตัว แล้วรวม
+Assignment 4: .par_sort()
+Assignment 5 (Advanced): Parallel struct processing
